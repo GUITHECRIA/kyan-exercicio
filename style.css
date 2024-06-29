@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    /* Altura da tela inteira */
+    margin: 0;
+    /* Remove margens padrão */
+}
+
+.gradient {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(96, 96, 119, 1) 35%, rgba(0, 212, 255, 1) 100%);
+
+}
+
+.space {
+    margin: 19vh
+}
+
+.space2 {
+    margin: 19vh;
+    margin-top: -15vh;
+
+}
+
+.space3 {
+    margin-left: 88vh;
+    margin-top: -62vh;
+
+}
